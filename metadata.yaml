@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25385
     wikipedia: http://en.wikipedia.org/wiki/John_Dover_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22525#John-Lyly
 gutenberg_issued: '2007-09-06'
 gutenberg_type: Text
 identifiers:
