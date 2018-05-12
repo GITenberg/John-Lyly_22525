@@ -1,0 +1,29 @@
+_repo: John-Lyly_22525
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, John Dover
+    alias: Wilson, J. D. (John Dover)
+    birthdate: 1881
+    deathdate: 1969
+    gutenberg_agent_id: '25385'
+    url: http://www.gutenberg.org/2009/agents/25385
+    wikipedia: http://en.wikipedia.org/wiki/John_Dover_Wilson
+description: ''
+gutenberg_issued: '2007-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22525'
+  lccn: '06032400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lyly, John, 1554?-1606 -- Criticism and interpretation'
+- !lcc 'PR'
+title: John Lyly
+url: http://www.gutenberg.org/ebooks/22525
